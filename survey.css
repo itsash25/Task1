@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+.logo{
+    padding-left: 500px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 500px;
+}
+
+.blue{
+    background-color: rgb(45, 171, 255);
+    padding-left: 510px;
+    padding-right: 500px;
+}
+
+.aliceblue{
+    background-color:aliceblue;
+    padding-left: 500px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 0px;
+    
+}
+
+#name{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#email{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#phone{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#domain{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#tasks{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#month{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#enhance{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#rate{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#domain{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#find{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#feedback{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#submit{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 3px;
+    padding-left: 3px;
+    margin-left : 80px;
+
+}
